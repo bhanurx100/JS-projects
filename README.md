@@ -1,2 +1,0 @@
-# JS-projects
-practice
